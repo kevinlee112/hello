@@ -4,3 +4,4 @@ git ha a mutable index called stage
 git tracks changes
 git tracks change of files
 tall me the change
+your branch is ahead of 'quick'
