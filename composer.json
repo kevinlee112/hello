@@ -1,0 +1,19 @@
+{
+    "name": "liqingyuan/test",
+    "description": "first composer package",
+    "type": "library",
+    "license": "2298829547@qq.com",
+    "authors": [
+        {
+            "name": "liqingyuan",
+            "email": "2298829547@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    }
+}
