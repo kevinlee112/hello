@@ -1,14 +1,8 @@
 {
-<<<<<<< HEAD
-    "name": "liqingyuan/hello",
-    "description": "test",
-    "type": "library",
-=======
     "name": "liqingyuan/test",
     "description": "first composer package",
     "type": "library",
     "license": "2298829547@qq.com",
->>>>>>> fc3d1e1d5aa132d499854d13d261b34eed98ee12
     "authors": [
         {
             "name": "liqingyuan",
@@ -17,11 +11,7 @@
     ],
     "minimum-stability": "dev",
     "require": {},
-<<<<<<< HEAD
- "autoload": {
-=======
     "autoload": {
->>>>>>> fc3d1e1d5aa132d499854d13d261b34eed98ee12
         "psr-4": {
             "Hello\\": "src/"
         }
