@@ -1,0 +1,18 @@
+{
+    "name": "liqingyuan/hello",
+    "description": "test",
+    "type": "library",
+    "authors": [
+        {
+            "name": "liqingyuan",
+            "email": "2298829547@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+ "autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    }
+}
