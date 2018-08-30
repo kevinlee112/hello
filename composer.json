@@ -2,7 +2,7 @@
     "name": "liqingyuan/test",
     "description": "first composer package",
     "type": "library",
-    "license": "2298829547@qq.com",
+    "license": "MIT",
     "authors": [
         {
             "name": "liqingyuan",
